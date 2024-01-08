@@ -1,0 +1,9 @@
+1. import glob - used to access pathways for multiple csv calls
+    ㄴ> glob.glob('PATH_HERE') [used for loop to go through paths]
+
+2. groupby - size (to group and count frequency within group)
+
+3. "rename_axis" to change the name of the index (row labels).
+   "reset_index" to reset the index and optionally provide a new name for the column that contains the old index.
+4. 
+
