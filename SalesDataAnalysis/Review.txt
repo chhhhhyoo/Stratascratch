@@ -8,10 +8,10 @@
 
 4. daily_sales[daily_sales.index == '2013-04-29']['sales_count'].values[0]
 
-5. 
+5. Wilcoxon -further studies needed **
 
-6. 
+6. previous_date.strftime('%Y-%m-%d')  strftime : datetime to string
 
-7. 
+7. pd.to_datetime(change_date) - pd.DateOffset(days=1)
 
 8. 
